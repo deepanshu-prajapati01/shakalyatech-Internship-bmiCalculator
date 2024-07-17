@@ -1,70 +1,57 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# shakalyatech-Internship-bmiCalculator : An internship offered by [Shakalyatech](https://in.linkedin.com/company/shakalyatech) which helped me to develop skills by creating this single page web application with the help of React Js.
 
-## Available Scripts
+# Things i have learnt throughout the project:
 
-In the project directory, you can run:
+* Enhanced Problem-Solving Skills
+* Gained Hands-On Experience
 
-### `npm start`
+# About this application:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* It is a basic web application having a navigation bar with 2 pages on 2 routes: `Home` and `BMI Calculator`
+* Home page on `/` while the other on `/bmi`
+* Home page having basic knowledge about bmi while the other page helps to calculate the BMI.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Resources i used:
 
-### `npm test`
+* I used [bootstrap](https://getbootstrap.com/) for creative responsive layout which reduces lots of effort.
+* For the logo of the webpage and other things, i used [FontAwesome](https://fontawesome.com/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Sample Images
+![WebPage-Home]()
+![WebPage-BMI]()
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Steps to run this webpage on your local machine:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+***Make sure to install [NodeJs](https://nodejs.org/en/download/package-manager) on your machine!***
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+* Step 1: Clone this repo using the following command.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```shell
+git clone https://github.com/deepanshu-prajapati01/shakalyatech-Internship-bmiCalculator
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* Step 2: Navigate to the cloned folder using the following command.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```shell
+cd shakalyatech-Internship-bmiCalculator
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+* Step 3: Install all the required dependencies using the following command.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```shell
+npm install
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* Step 4: Run the program with the following command : 
+```shell
+npm run start
+```
 
-### Code Splitting
+* React Application works on the port `3000`.
+* Navigate to `http://localhost:3000` to see the webpage!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
