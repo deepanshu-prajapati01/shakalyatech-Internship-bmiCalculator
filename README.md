@@ -18,8 +18,8 @@
 * For the logo of the webpage and other things, i used [FontAwesome](https://fontawesome.com/)
 
 # Sample Images
-![WebPage-Home]()
-![WebPage-BMI]()
+![WebPage-Home](https://github.com/deepanshu-prajapati01/shakalyatech-Internship-bmiCalculator/blob/master/sampleImages/homePage.png)
+![WebPage-BMI](https://github.com/deepanshu-prajapati01/shakalyatech-Internship-bmiCalculator/blob/master/sampleImages/bmiPage.png)
 
 
 # Steps to run this webpage on your local machine:
